@@ -65,7 +65,7 @@ password: user
 
 # Step Ke-7:
 Kembali ke klien ssh dan perbarui file-file berikut untuk menampilkan info terkait perangkat Mikrotik di tabel dan tampilan detail kami:
-Salin variabel dari file https://github.com/skull-candy/genieacs/blob/master/MIKROTIK-Parameters-For-GenieACS :
+Salin variabel dari file https://github.com/JayFromIndonesia/GenieACS-AutoInstall-VPS---Ubuntu-20.04-/blob/master/MIKROTIK-Parameters-For-GenieACS :
 
 Perbarui index_parameters.yml dengan menjalankan perintah berikut:
 
