@@ -1,6 +1,9 @@
 # Tutorial untuk menginstal GenieACS dengan GUI di "Server VPS Ubuntu 20.04"
 
 Ikuti langkah-langkah dibawah ini :
+Alternatif : https://storage.nusadigital.co.id/s/d7WsPxD5b6NBEpc
+
+ATAU
 
 # Step Ke-1:
 Install Ubuntu Server 20.04 pada VPS anda (disarankan KVM)!
