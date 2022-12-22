@@ -33,9 +33,9 @@ lalu tekan CTRL + X untuk keluar dari editor
 
 # Step Ke-4:
 Setelah keluar dari editor, jalankan perintah berikut untuk membuatnya dapat dieksekusi:
-"chmod +x script.sh" 
+"chmod +x AutoInstallGenieACS.sh" 
 dan jalankan skrip:
-"sudo ./script.sh"
+"sudo ./AutoInstallGenieACS.sh"
 dan BIARKAN SAMPAI SELESAI (tekan Y (Y huruf besar) saat diminta selama instalasi.
 
 # Step Ke-5: 
