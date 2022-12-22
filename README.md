@@ -38,12 +38,15 @@ dan jalankan skrip:
 "sudo ./AutoInstallGenieACS.sh"
 dan BIARKAN SAMPAI SELESAI (tekan Y (Y huruf besar) saat diminta selama instalasi.
 
+lanjutkan dengan ketik:
+gem install bundler:1.16.6
+
 # Step Ke-5: 
 Sekarang Ada Dua Teknik untuk Mencapai Langkah Ini :
 
 Teknik 1 (cocok untuk install di vps):
 cd ke folder dan jalankan skrip dengan:
-"cd /genieacs-gui/"
+"cd genieacs-gui"
 Untuk memulai Layanan
 "sudo ./genieacs-start.sh"
 Untuk menghentikan Layanan
